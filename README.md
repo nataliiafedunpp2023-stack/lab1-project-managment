@@ -39,6 +39,6 @@ Minimum Viable Product (MVP) — це веб-інтерфейс, який доз
 ### 1. Клонування репозиторію
 
 ```bash
-git clone https://github.com/Igoryakib/lab1-project-managment.git
+git clone https://github.com/nataliiafedunpp2023-stack/lab1-project-managment.git
 cd lab1-project-managment
 ```
