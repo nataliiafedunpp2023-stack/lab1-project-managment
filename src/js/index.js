@@ -1,2 +1,1 @@
-sazdxfcbml
-lckjhgsaAS;vjBHSPO"vk B
+console.log("Hello world!")
